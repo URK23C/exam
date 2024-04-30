@@ -1,1 +1,2 @@
-# exam
+# include <stdio.h>
+print("exam")
